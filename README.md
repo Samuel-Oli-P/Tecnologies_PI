@@ -1,6 +1,6 @@
 # Documentação
 
 - Criar repositório
-- Utilizar git para mandar subir.
+- Utilizar git para subir algum código.
 
-*TECNOLOGIES*
+### *TECNOLOGIES*
